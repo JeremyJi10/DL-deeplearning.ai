@@ -1,4 +1,4 @@
-## Week 3 - Neural Networks and Deep Learning
+## Week 3 - Shallow neural networks
 ### Learning Objectives
 - Describe hidden units and hidden layers
 - Use units with a non-linear activation function, such as tanh
