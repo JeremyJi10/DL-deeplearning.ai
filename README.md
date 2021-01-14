@@ -27,7 +27,7 @@ In Course 5, Sequence Models, you will have the opportunity to build a deep lear
 ## Contents
 Programming assignments, projects from all 5 courses, and quizzes of course 3.
 
-**Note:** All caches, previou versions, and read-only files were not uploaded except read-only images.
+**Note:** All caches, previous versions, and read-only files were not uploaded except read-only images.
 
 ### Course 1 - Neural Networks and Deep Learning
 - Week 1 - Intro to Deep Learning
