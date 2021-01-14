@@ -1,5 +1,9 @@
-# Deep Learning Specialization (offered by deeplearning.ai and taught by Andrew Ng)
-Programming assignments, projects from all courses, and quizzes of course 3 - Structuring Machine Learning Projects.\
+# Deep Learning Specialization (offered by deeplearning.ai)
+
+Instructor: Andrew Ng
+
+Programming assignments, projects from all courses, and quizzes of course 3 - Structuring Machine Learning Projects.
+
 **Note:** caches, previou versions, and read-only files were not uploaded except read-only images.
 
 ### About this Specialization
