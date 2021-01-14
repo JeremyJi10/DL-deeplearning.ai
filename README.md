@@ -1,8 +1,5 @@
 # Deep Learning Specialization (offered by deeplearning.ai)
 
-### Instructor
-Andrew Ng
-
 ### About this Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. 
 We will help you become good at Deep Learning. 
@@ -24,6 +21,8 @@ You will also build near state-of-the-art deep learning models for several of th
 you will work through case studies and gain "industry-like experience" setting direction for an ML team. 
 
 In Course 5, Sequence Models, you will have the opportunity to build a deep learning project with cutting-edge, industry-relevant content.
+
+Instructor: Andrew Ng
 
 ## Contents
 Programming assignments, projects from all courses, and quizzes of course 3 - Structuring Machine Learning Projects.
